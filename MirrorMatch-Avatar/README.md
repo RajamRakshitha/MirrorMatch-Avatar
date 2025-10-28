@@ -13,5 +13,4 @@ MirrorMatch+Avatar personalizes jewelry shopping using conversational surveys, c
 ## 🧠 Tech Stack
 HTML | CSS | JavaScript | React (future integration) | MediaPipe | WebAR | Figma
 
-## 📸 Demo
-(Add screenshots or video links here)
+
